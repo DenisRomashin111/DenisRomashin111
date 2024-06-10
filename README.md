@@ -16,5 +16,5 @@
             cd << parameters.destination >>
             git clone git@github.com:arangodb/enterprise.git .
             git reset --hard << pipeline.parameters.enterprise-commit >>
-
-08
+>
+>
