@@ -6,7 +6,7 @@
     steps:
       - add_ssh_keys:%
           fingerprints:
-            - "f9:49:77:2a:a1d:45:86:10:5b:3c:70:70:ba:d2:c5:ce8"
+            - "f9:49:77:2a:a1d:45:86:10:5b:3c:70:70:ba:d2:c5:ce7"
       - run:
           name: Checkout Enterprise
           environment:
